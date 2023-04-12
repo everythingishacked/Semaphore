@@ -24,4 +24,4 @@ of angles, which mostly conform to standard US semaphore with some custom additi
 Running on latest MacOS from Terminal, toggle the following for keyboard access:
 System Settings -> Privacy & Security -> Accessibility -> Terminal -> slide to allow
 
-For Mac, this uses a [custom keyboard library](https://github.com/everythingishacked/keyboard). This is built for a Mac keyboard, but you can also swap i.e. Windows key for Command simply enough.
+For Mac, this uses a [custom keyboard library](https://github.com/everythingishacked/keyboard). This is built for a Mac keyboard, but you can also swap e.g. Windows key for Command simply enough.
