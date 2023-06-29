@@ -2,9 +2,11 @@
 
 ### A full-body keyboard
 
-![demo](demo.gif)
+[![demo](demo.gif)](https://youtu.be/h376W93gQq4)
 
 View a fuller demo and more background on the project at https://youtu.be/h376W93gQq4
+
+The next iteration of this project, designed as a full-body *game* controller, is also available at https://github.com/everythingishacked/Gamebody
 
 Semaphore uses [OpenCV](https://github.com/opencv/opencv-python) and MediaPipe's [Pose detection](https://google.github.io/mediapipe/solutions/pose.html#python-solution-api) to perform real-time detection of body landmarks from video input. From there, relative differences are calculated to determine specific positions and translate those into keys and commands sent via [keyboard](https://github.com/boppreh/keyboard).
 
